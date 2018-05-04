@@ -1,0 +1,27 @@
+{
+  "name": "crypto-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christoph93/crypto-node.git"
+  },
+  "author": "Christoph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christoph93/crypto-node/issues"
+  },
+  "homepage": "https://github.com/christoph93/crypto-node#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "morgan": "^1.9.0",
+    "oracledb": "^2.2.0",
+    "stylus": "^0.54.5"
+  }
+}
